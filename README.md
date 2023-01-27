@@ -10,8 +10,10 @@
 - 🎸 За пределами IT также в качестве хобби играю на гитаре, занимаюсь волейболом и лыжами, катаюсь с семьей на велике
 
 ### 🛠️ Мой стек:
-<p> <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' height="24">
-
+<p> 
+  <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' height="24">
+  <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' height="24">
+</p>
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
