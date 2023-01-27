@@ -29,6 +29,5 @@
   <img src='https://img.shields.io/badge/CorelDraw-4EA94B?style=for-the-badge' height="28">
 </p>
 
-:trophy: Моя статистика:
 ### :trophy: Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/ArtemBasharin/badges/large)](https://www.codewars.com/users/ArtemBasharin)
