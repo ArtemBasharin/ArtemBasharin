@@ -32,18 +32,3 @@
 :trophy: Моя статистика:
 ### :trophy: Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/ArtemBasharin/badges/large)](https://www.codewars.com/users/ArtemBasharin)
-
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Comediant24&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Comediant24&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact" />
-</a>
-</div>
-
-
-
-
-![Codewars](https://github.r2v.ch/codewars?user=ArtemBasharin&stroke=%23BB432C)
