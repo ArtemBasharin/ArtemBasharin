@@ -1,17 +1,19 @@
-### Hi there 👋
+### Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+
+### 🚀 Обо мне
+
+🎓 Меня зовут Артем, и я **Фронтенд Веб-разработчик** (специализируюсь на **React.js приложениях**)
+
+- 🔥 Стремлюсь писать крутые, быстрые алгоритмы и чистый код
+- 🎯 Хочу работать с реальными проектами 
+- 🏫 Освоить новые фреймворки
+- 🎸 За пределами IT также в качестве хобби играю на гитаре, занимаюсь волейболом и лыжами, катаюсь с семьей на велике
+
+### 🛠️ Мой стек:
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
 ![Codewars](https://github.r2v.ch/codewars?user=ArtemBasharin&stroke=%23BB432C)
-
-<!--
-**ArtemBasharin/ArtemBasharin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
