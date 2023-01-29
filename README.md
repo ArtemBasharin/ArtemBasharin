@@ -35,11 +35,11 @@
 <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github">
 
 <div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemBasharin&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArtemBasharin&theme=github_dark">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemBasharin&theme=github"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArtemBasharin&theme=github">
 </div>
 
 <div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemBasharin&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArtemBasharin&theme=github_dark&utcOffset=8">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemBasharin&theme=github"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArtemBasharin&theme=github&utcOffset=8">
 </div>
