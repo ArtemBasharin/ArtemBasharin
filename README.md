@@ -32,7 +32,7 @@
 ### :trophy: Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/ArtemBasharin/badges/large)](https://www.codewars.com/users/ArtemBasharin)
 
-<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github_auto">
+<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github_dark">
 
 <div style="display: flex; justify-content: space-between; width: 100%">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemBasharin&theme=github_dark"> 
