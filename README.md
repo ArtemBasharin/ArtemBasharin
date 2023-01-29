@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Привет,%20мир&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Привет,%20Мир!&fontSize=90)
 
 ### 🚀 Обо мне
 
@@ -31,3 +31,15 @@
 
 ### :trophy: Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/ArtemBasharin/badges/large)](https://www.codewars.com/users/ArtemBasharin)
+
+<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github_dark">
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemBasharin&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArtemBasharin&theme=github_dark">
+</div>
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemBasharin&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArtemBasharin&theme=github_dark&utcOffset=8">
+</div>
