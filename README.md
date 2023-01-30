@@ -9,8 +9,8 @@
 - 🏫 Освоить новые фреймворки
 - 🎸 За пределами IT также в качестве хобби играю на гитаре, занимаюсь волейболом и лыжами, катаюсь с семьей на велике
 
-📧 basharinaa@mail.ru
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="23">
+### 📧 Почта: basharinaa@mail.ru
+### 🌐 Telegram: [@honestybash](https://t.me/honestybash)
 
 
 ### 🛠️ Мой стек:
