@@ -10,7 +10,7 @@
 - 🎸 За пределами IT также в качестве хобби играю на гитаре, занимаюсь волейболом и лыжами, катаюсь с семьей на велике
 
 📧 basharinaa@mail.ru
-![image](https://user-images.githubusercontent.com/96467533/215458106-850a95fc-01f2-4e48-8431-4e9badae8d2a.png)
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="23">
 
 
 ### 🛠️ Мой стек:
