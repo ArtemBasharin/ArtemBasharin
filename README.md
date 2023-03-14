@@ -11,6 +11,7 @@
 
 ### 📧 Почта: basharinaa@mail.ru
 ### 🌐 Telegram: [@honestybash](https://t.me/honestybash)
+### 🌐 Personal page [https://artembash.ru](https://artembash.ru)
 
 
 ### 🛠️ Мой стек:
