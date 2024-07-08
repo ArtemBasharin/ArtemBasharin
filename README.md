@@ -59,6 +59,8 @@
 ### :trophy: Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/ArtemBasharin/badges/large)](https://www.codewars.com/users/ArtemBasharin)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ArtemBasharin)](https://leetcode.com/ArtemBasharin)
+
 <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github">
 
 <div style="display: flex; justify-content: space-between; width: 100%">
