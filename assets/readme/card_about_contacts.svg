@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="260" viewBox="0 0 980 260" role="img" aria-label="About and Contacts card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef2fb"/>
+      <stop offset="1" stop-color="#e4e9f6"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-40%" width="140%" height="180%">
+      <feDropShadow dx="14" dy="14" stdDeviation="12" flood-color="#1e2430" flood-opacity="0.18"/>
+      <feDropShadow dx="-14" dy="-14" stdDeviation="12" flood-color="#ffffff" flood-opacity="0.85"/>
+    </filter>
+    <linearGradient id="glass" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="24" y="22" rx="28" ry="28" width="932" height="216" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="24" y="22" rx="28" ry="28" width="932" height="216" fill="none" stroke="#ffffff" stroke-opacity="0.55"/>
+
+  <path d="M64 62 C210 30, 330 44, 410 82 C500 125, 655 148, 780 110 C860 86, 905 78, 916 84 L916 128 C892 118, 844 116, 780 138 C650 184, 500 170, 392 126 C304 90, 190 78, 64 104 Z"
+        fill="url(#glass)" opacity="0.9"/>
+
+  <g fill="#2a3140" opacity="0.92" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" letter-spacing="0.2">
+    <text x="76" y="96" font-size="22" font-weight="700">1> <=5</text>
+    <text x="76" y="126" font-size="16" opacity="0.85">Frontend developer " 1KAB@K9 :>4 " @50;L=K5 ?@>5:BK</text>
+
+    <text x="540" y="96" font-size="22" font-weight="700">>=B0:BK</text>
+    <text x="540" y="126" font-size="16" opacity="0.85">>GB0 " Telegram " personal page</text>
+  </g>
+
+  <g transform="translate(76 156)" fill="none" stroke="#2a3140" stroke-opacity="0.8" stroke-width="2.2">
+    <path d="M18 6c-7 0-12 5-12 12s5 12 12 12 12-5 12-12S25 6 18 6Z"/>
+    <path d="M18 32c-10 0-18 6-18 14h36c0-8-8-14-18-14Z" opacity="0.9"/>
+  </g>
+
+  <g transform="translate(540 156)" fill="none" stroke="#2a3140" stroke-opacity="0.8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 12h32v22H8z"/>
+    <path d="m8 12 16 13 16-13"/>
+    <path d="M52 20c6-2 12 2 12 8 0 5-3 9-8 10" opacity="0.85"/>
+  </g>
+</svg>
