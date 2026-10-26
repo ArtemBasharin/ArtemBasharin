@@ -66,22 +66,10 @@ const artem = {
 
 ## 🛠️ Стек
 
-<div align="center">
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,materialui,tailwind,vite,vitest&perline=12" alt="Frontend stack" />
-
-**Backend & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,docker,nginx,ubuntu,vercel,postman,npm,yarn&perline=12" alt="Backend stack" />
-
-**Embedded, скрипты и дизайн**<br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,c,arduino,figma,ps,git,md&perline=12" alt="Other tools" />
-<br/>
-<img src="https://img.shields.io/badge/SolidWorks-DA1F26?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
-<img src="https://img.shields.io/badge/CorelDRAW-44A048?style=flat-square&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
-<img src="https://img.shields.io/badge/VBA-867DB1?style=flat-square&logo=microsoftexcel&logoColor=white" alt="VBA" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <img src="assets/stack-light.svg" width="100%" alt="Tech stack: HTML5, CSS, Sass, JavaScript, TypeScript, React, Next.js, Vite, Tailwind, Redux, React Router, MUI, shadcn/ui, GSAP, Zod, Vitest, npm, Telegram Bots, Node.js, Express, Prisma, PostgreSQL, MongoDB, Docker, NGINX, Ubuntu, Vercel, Git, Postman, Python, C/C++, Arduino, Figma, Photoshop, SolidWorks, CorelDRAW" />
+</picture>
 
 ## 📊 Статистика
 
