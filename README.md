@@ -1,79 +1,120 @@
-<div align="center">
-
-<img src="header.png" alt="Hello, this is Artem" width="980" />
-
-</div>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Artem%20Basharin&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Frontend%20%C2%B7%20Fullstack%20%C2%B7%20Engineering%20automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Artem Basharin" />
 
 <div align="center">
 
-<img src="assets/readme/card_about_contacts.svg" alt="About and contacts" width="980" />
+<a href="https://artembash.ru">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%90%D1%80%D1%82%D0%B5%D0%BC+%F0%9F%91%8B;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B5+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B+%D0%BD%D0%B0+React+%2F+Next.js;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%83%D1%8E+%D1%80%D1%83%D1%82%D0%B8%D0%BD%D1%83;%D0%9F%D0%B8%D1%88%D1%83+%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B+%D0%B4%D0%BB%D1%8F+Figma+%D0%B8+Photoshop" alt="Typing intro" />
+</a>
+
+<br/><br/>
+
+<a href="https://artembash.ru"><img src="https://img.shields.io/badge/artembash.ru-7F5AF0?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://t.me/honestybash"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:basharinaa@mail.ru"><img src="https://img.shields.io/badge/basharinaa@mail.ru-2CB67D?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/ArtemBasharin"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.codewars.com/users/ArtemBasharin"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="Codewars" /></a>
 
 </div>
 
-### 🚀 Обо мне
+<br/>
 
-🎓 Меня зовут **Артем**, и я — фронтенд разработчик.
+## 👋 Обо мне
 
-- 🔥 Стремлюсь писать быстрые алгоритмы и чистый код
-- 🎯 Хочу работать с реальными проектами в крутой команде
-- 🎸 За пределами IT играю на гитаре, занимаюсь волейболом и лыжами, катаюсь с семьей на велике
+```ts
+const artem = {
+  role: "Frontend / Fullstack developer",
+  focus: ["React & Next.js", "TypeScript", "инженерная автоматизация"],
+  values: ["быстрые алгоритмы", "чистый код", "реальные продукты в сильной команде"],
+  offline: ["🎸 гитара", "🏐 волейбол", "⛷️ лыжи", "🚴 велопрогулки с семьей"],
+};
+```
 
-### 📬 Контакты
+## 🚀 Избранные проекты
 
-- **Почта**: [basharinaa@mail.ru](mailto:basharinaa@mail.ru)
-- **Telegram**: [@honestybash](https://t.me/honestybash)
-- **Personal page**: [artembash.ru](https://artembash.ru)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚆 <a href="https://github.com/ArtemBasharin/rzd-analytic">rzd-analytic</a></h3>
+      <p>Аналитическая панель с визуализацией данных и собственным API.</p>
+      <a href="https://rzd-analytic.vercel.app"><img src="https://img.shields.io/badge/demo-live-2CB67D?style=flat-square" alt="Live demo" /></a>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚵 <a href="https://github.com/ArtemBasharin/bikefit-helper">bikefit-helper</a></h3>
+      <p>MTB bike fit калькулятор: антропометрия + дисциплина → карточка настройки велосипеда. Есть Telegram-бот.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♻️ <a href="https://github.com/ArtemBasharin/qr-eco">qr-eco</a></h3>
+      <p>QR-репортинг о несанкционированных свалках: фото + геолокация → заявка оператору.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/ArtemBasharin/figma-plugins">figma-plugins</a></h3>
+      <p>Плагины для Figma: пакетный экспорт изображений с тенью в ZIP. Также — <a href="https://github.com/ArtemBasharin/photoshop-plugins">photoshop-plugins</a>.</p>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Стек
 
 <div align="center">
 
-<img src="assets/readme/card_stack.svg" alt="Tech stack" width="980" />
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,materialui,tailwind,vite,vitest&perline=12" alt="Frontend stack" />
+
+**Backend & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,docker,nginx,ubuntu,vercel,postman,npm,yarn&perline=12" alt="Backend stack" />
+
+**Embedded, скрипты и дизайн**<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,arduino,figma,ps,git,md&perline=12" alt="Other tools" />
+<br/>
+<img src="https://img.shields.io/badge/SolidWorks-DA1F26?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+<img src="https://img.shields.io/badge/CorelDRAW-44A048?style=flat-square&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
+<img src="https://img.shields.io/badge/VBA-867DB1?style=flat-square&logo=microsoftexcel&logoColor=white" alt="VBA" />
 
 </div>
 
-### 🛠️ Мой стек
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="SCSS">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="28" alt="Markdown">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="NPM">
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" height="28" alt="Yarn">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="28" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="28" alt="Express.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="React">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="28" alt="React Router">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Vercel">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="28" alt="Nginx">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="28" alt="Arduino">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" alt="C++">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28" alt="Postman">
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764abc?style=for-the-badge" height="28" alt="Redux Toolkit">
-  <img src="https://img.shields.io/badge/Material%20UI-007fff?style=for-the-badge" height="28" alt="Material UI">
-</p>
+## 📊 Статистика
 
 <div align="center">
 
-<img src="assets/readme/card_design_tools.svg" alt="Design tools" width="980" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ArtemBasharin&theme=dark&hide_border=true&background=00000000&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" />
+  <img src="https://streak-stats.demolab.com?user=ArtemBasharin&theme=default&hide_border=true&background=00000000&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" alt="GitHub streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github" alt="Profile details" />
+</picture>
+
+<a href="https://leetcode.com/ArtemBasharin">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/ArtemBasharin?theme=dark&font=JetBrains%20Mono&border=0&radius=12" />
+    <img src="https://leetcard.jacoblin.cool/ArtemBasharin?theme=light&font=JetBrains%20Mono&border=0&radius=12" alt="LeetCode stats" />
+  </picture>
+</a>
+<a href="https://www.codewars.com/users/ArtemBasharin">
+  <img src="https://www.codewars.com/users/ArtemBasharin/badges/large" alt="Codewars" />
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArtemBasharin/ArtemBasharin/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ArtemBasharin/ArtemBasharin/output/github-snake.svg" alt="Contribution snake" />
+</picture>
 
 </div>
 
-### 🖍 Инструменты дизайна
-
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="28" alt="Adobe Photoshop">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28" alt="Figma">
-  <img src="https://img.shields.io/badge/SolidWorks-DA1F26?style=for-the-badge&logo=dassaultsystemes&logoColor=white" height="28" alt="SolidWorks">
-  <img src="https://img.shields.io/badge/CorelDraw-4EA94B?style=for-the-badge" height="28" alt="CorelDraw">
-</p>
-
-### 🏆 Моя статистика
-
-[![Codewarrior Profile Badges](https://www.codewars.com/users/ArtemBasharin/badges/large?v=20260416)](https://www.codewars.com/users/ArtemBasharin)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ArtemBasharin?v=20260416)](https://leetcode.com/ArtemBasharin)
-
-<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github&v=20260416" alt="Profile details">
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" width="100%" alt="" />
