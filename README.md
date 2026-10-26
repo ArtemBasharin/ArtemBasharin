@@ -72,27 +72,8 @@
 
 ### 🏆 Моя статистика
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/ArtemBasharin/badges/large)](https://www.codewars.com/users/ArtemBasharin)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/ArtemBasharin/badges/large?v=20260416)](https://www.codewars.com/users/ArtemBasharin)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ArtemBasharin)](https://leetcode.com/ArtemBasharin)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ArtemBasharin?v=20260416)](https://leetcode.com/ArtemBasharin)
 
-<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github" alt="Profile details">
-
-<table>
-  <tr>
-    <td>
-      <img width="460" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemBasharin&theme=github" alt="Repos per language">
-    </td>
-    <td>
-      <img width="460" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArtemBasharin&theme=github" alt="Most commit language">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img width="460" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemBasharin&theme=github" alt="Stats">
-    </td>
-    <td>
-      <img width="460" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArtemBasharin&theme=github&utcOffset=8" alt="Productive time">
-    </td>
-  </tr>
-</table>
+<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemBasharin&theme=github&v=20260416" alt="Profile details">
